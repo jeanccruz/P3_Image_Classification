@@ -41,7 +41,7 @@ The `hpo.py` script is used to perform hyperparameter tuning.
 
 ![Hyperparameters Tuning](Screenshots/Hyperparameters.jpg "Hyperparameters Tuning") ![Hyperparameters](Screenshots/Hyperparameters.jpg "Hyperparameters")
 
-###Training Jobs
+### Training Jobs
 ![Training Jobs](Screenshots/Training_Jobs.jpg "Training Jobs")
 
 ## Debugging and Profiling
