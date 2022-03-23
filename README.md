@@ -1,6 +1,6 @@
 # Image Classification using AWS SageMaker
 
-Udacity AWS Machine Learning Engineer Nanodegree
+Udacity AWS Machine Learning Engineer Nanodegree <br>
 Jean Carlos da Cruz
 
 In this project we used AWS Sagemaker to train a pretrained model that can perform image classification by using the Sagemaker profiling, debugger, hyperparameter tuning and other good ML engineering practices. We used the provided dog breed classication data set. In order to get the project done we fine-tuned the pretrained model Resnet50 from pytorch library (https://pytorch.org/vision/master/generated/torchvision.models.resnet50.html). After that we performed profiling and debugging with hooks. To check the sucess of the model we deployed it and tested its results using three dog images to see how accurate the model is.
